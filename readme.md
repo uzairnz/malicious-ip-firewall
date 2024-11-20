@@ -118,7 +118,7 @@ We welcome contributions to make this project more robust and comprehensive.
 
 2. **Clone Your Fork**:
    ```bash
-   git clone https://github.com/<your-username>/malicious-ip-firewall.git
+   git clone https://github.com/uzairnz/malicious-ip-firewall.git
    cd malicious-ip-firewall
    ```
 
