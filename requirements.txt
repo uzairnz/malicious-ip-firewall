@@ -1,0 +1,1 @@
+requests>=2.20.0  # For fetching data from online sources
