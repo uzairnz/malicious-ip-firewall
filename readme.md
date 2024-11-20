@@ -46,7 +46,7 @@ With the newly added **master script**, users can now manage and execute multipl
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/malicious-ip-firewall.git
+   git clone https://github.com/uzairnz/malicious-ip-firewall.git
    cd malicious-ip-firewall
    ```
 
